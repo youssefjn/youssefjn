@@ -6,7 +6,11 @@
 - 🌱 I’m currently learning Angular/Spring
 - 📫 You can reach me on: <a href="mailto:youssefjneyah@gmail.com?"></a> youssefjneyah@gmail.com 
 <h2 align="center">Social & Professional: </h2>
-
+<div align="center" >
+  <a href="mailto:youssefjneyah@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://api.whatsapp.com/send?phone=21650252392"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/youssef-jneyah/?"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
 <h2 align="center">I am Focusing on : </h2>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -19,5 +23,4 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,css,php,py,r,ps,arduino" />
   </a>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefjn)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=youssefjn)](https://github.com/anuraghazra/github-readme-stats)
+
