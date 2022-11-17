@@ -20,7 +20,7 @@
 <h3 align="center">Learned also : </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,css,php,py,r,ps,arduino" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,php,py" />
   </a>
 </p>
 
