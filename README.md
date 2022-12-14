@@ -23,4 +23,10 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,php,py" />
   </a>
 </p>
+</br>
+</br>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=youssefjn&show_icons=true&theme=great-gatsby" alt="youssefjn" />
+
+<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=youssefjn.youssefjn" />
 
