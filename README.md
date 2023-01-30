@@ -30,3 +30,9 @@
 
 <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=youssefjn.youssefjn" />
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=youssefjn&label=Profile%20views&color=0e75b6&style=flat" alt="youssefjn" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssefjn" alt="youssefjn" /></a> </p>
+
+
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefjn&show_icons=true&locale=en&layout=compact" alt="youssefjn" /></p>
