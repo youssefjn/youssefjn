@@ -25,14 +25,8 @@
 </p>
 </br>
 </br>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=youssefjn&show_icons=true&theme=great-gatsby" alt="youssefjn" />
-
-<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=youssefjn.youssefjn" />
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=youssefjn&label=Profile%20views&color=0e75b6&style=flat" alt="youssefjn" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssefjn" alt="youssefjn" /></a> </p>
-
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=youssefjn&show_icons=true&theme=great-gatsby" alt="youssefjn" />
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssefjn&column=3&theme=onestar"&no-frame=true alt="youssefjn" /></a> </p>
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefjn&show_icons=true&locale=en&layout=compact" alt="youssefjn" /></p>
