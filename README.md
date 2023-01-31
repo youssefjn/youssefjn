@@ -14,13 +14,13 @@
 <h2 align="center">I am Focusing on : </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,html,java,js,mysql,spring,ts,maven" />
+    <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,html,js,ts,java,spring,maven,mysql&theme=light" />
   </a>
 </p>
 <h3 align="center">Learned also : </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,php,py" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,php,py&theme=light" />
   </a>
 </p>
 </br>
